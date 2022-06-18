@@ -11,4 +11,6 @@
   <project remote="oe" name="meta-openembedded" revision="dunfell" path="sources/meta-openembedded"/>
   <project remote="gh" name="OSSystems/meta-gstreamer1.0.git" revision="dunfell" path="sources/meta-gstreamer1.0"/>
   <project remote="gh" name="igalia/meta-webkit.git" revision="dunfell" path="sources/meta-webkit"/>
+  <project remote="gh" name="sony/meta-flutter.git" revision="main" path="sources/meta-flutter"/>
+  <project remote="gh" name="kraj/meta-clang.git" revision="dunfell" path="sources/meta-clang"/>
 </manifest>
